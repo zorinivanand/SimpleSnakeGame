@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CloneSnakeGame</string>
+    <string name="start">START</string>
+    <string name="top">Вверх</string>
+    <string name="down">Вниз</string>
+    <string name="left">Лево</string>
+    <string name="right">право</string>
+</resources>
